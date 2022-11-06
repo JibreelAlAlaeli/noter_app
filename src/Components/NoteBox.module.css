@@ -1,0 +1,9 @@
+.box{
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    width: 300px;
+    border: 15px solid #8D9EFF;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
